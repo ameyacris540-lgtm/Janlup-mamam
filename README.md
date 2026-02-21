@@ -43,7 +43,7 @@
   <div class="box">
     <div class="emoji">🍽️😤</div>
     <h1>JANGAN LUPA MAKAN!</h1>
-    <p>Kamu penting, makan dulu ya bro/sis 💪❤️</p>
+    <p>Kamu penting, makan dulu ya bro 💪</p>
   </div>
 </body>
 </html>
